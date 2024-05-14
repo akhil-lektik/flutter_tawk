@@ -31,7 +31,7 @@ Tawk(
     directChatLink: 'YOUR_DIRECT_CHAT_LINK',
     visitor: TawkVisitor(
         name: 'Ayoub AMINE',
-        email: 'ayoubamine2a@gmail.com',
+        email: 'akhil.15111993@gmail.com',
     ),
 )
 ```
